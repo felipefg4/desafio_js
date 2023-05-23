@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    color: rgb(80, 76, 76);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 90vh;
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+
+.text button{
+    width: 100px;
+    align-items: center;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-family: 'Roboto Mono', monospace;
+  background-color: rgb(99, 73, 73);
+}
+
+.soma{
+    color: rgb(245, 196, 196);
+   background-color: rgb(138, 115, 115);
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Gill Sans';
+    
+}
+
+.nome{
+    color: rgb(245, 196, 196);
+    background-color:rgb(138, 115, 115);
+    border-radius: 15px;
+    text-align: center;
+    font-family: 'Gill Sans';
+    
+}
